@@ -1,0 +1,2608 @@
+kisah = 3
+
+hidup = 48
+
+prof = 2
+
+dr = 2
+
+shiddiqa = 2
+
+binti = 2
+
+abdul = 2
+
+aziz = 1
+
+saya = 130
+
+berharap = 1
+
+nyata = 2
+
+ini = 28
+
+bisa = 13
+
+melunakkan = 1
+
+hati = 7
+
+yang = 126
+
+keras = 7
+
+melukiskan = 2
+
+nuansa = 2
+
+cinta = 25
+
+dalam = 26
+
+kedamaian = 2
+
+serta = 5
+
+menghadirkan = 1
+
+kesetiaan = 2
+
+pada = 13
+
+segenap = 3
+
+menangkapnya = 1
+
+tiga = 2
+
+puluh = 1
+
+tahun = 10
+
+lalu = 8
+
+adalah = 17
+
+seorang = 15
+
+pemuda = 1
+
+di = 56
+
+tengah = 2
+
+keluarga = 19
+
+bangsawan = 2
+
+menengah = 1
+
+ke = 17
+
+atas = 4
+
+ayah = 22
+
+perwira = 1
+
+tinggi = 3
+
+keturunan = 1
+
+�pasha� = 3
+
+terhormat = 1
+
+negeri = 4
+
+ibu = 7
+
+tak = 11
+
+kalah = 1
+
+terhormatnya = 1
+
+lady = 1
+
+dari = 31
+
+aristokrat = 5
+
+terkemuka = 1
+
+ma�adi = 1
+
+ia = 14
+
+berpendidikan = 1
+
+ekonom = 1
+
+jebolan = 1
+
+sorbonne = 1
+
+memegang = 1
+
+jabatan = 1
+
+penting = 1
+
+dan = 114
+
+sangat = 6
+
+dihormati = 2
+
+kalangan = 4
+
+elit = 1
+
+politik = 1
+
+anak = 4
+
+sulung = 1
+
+adik = 4
+
+dua = 7
+
+lelaki = 2
+
+perempuan = 3
+
+kami = 111
+
+suasana = 2
+
+dengan = 69
+
+tatanan = 1
+
+tersendiri = 1
+
+perjalanan = 2
+
+sepenuhnya = 1
+
+diatur = 1
+
+undang = 4
+
+norma = 1
+
+besar = 5
+
+hanya = 8
+
+mengenal = 3
+
+pergaulan = 3
+
+atau = 6
+
+high = 1
+
+class = 1
+
+sepadan = 1
+
+entah = 2
+
+kenapa = 6
+
+merasa = 9
+
+tidak = 37
+
+puas = 1
+
+cara = 3
+
+seperti = 8
+
+terkukung = 1
+
+terbelenggu = 1
+
+strata = 2
+
+sosial = 3
+
+didewa = 1
+
+dewakan = 1
+
+merasakan = 3
+
+benar = 7
+
+cari = 1
+
+lebih = 20
+
+justru = 2
+
+saat = 16
+
+bergaul = 2
+
+teman = 10
+
+bawah = 1
+
+menghadapi = 1
+
+penuh = 10
+
+rintangan = 1
+
+perjuangan = 2
+
+hal = 2
+
+ternyata = 5
+
+membuat = 2
+
+gusar = 1
+
+mereka = 25
+
+menganggap = 1
+
+ceroboh = 1
+
+menjaga = 2
+
+status = 2
+
+orang = 11
+
+selalu = 2
+
+basah = 2
+
+keringat = 1
+
+mencari = 4
+
+pengganjal = 2
+
+perut = 3
+
+dianggap = 1
+
+memalukan = 1
+
+namun = 6
+
+peduli = 1
+
+karena = 13
+
+memperoleh = 3
+
+warisan = 1
+
+yan = 1
+
+kakek = 1
+
+mampu = 1
+
+mengembangkannya = 1
+
+berlipat = 1
+
+ganda = 1
+
+maka = 6
+
+mewah = 6
+
+selera = 1
+
+jika = 7
+
+musim = 4
+
+panas = 1
+
+tiba = 6
+
+biasa = 6
+
+berlibur = 2
+
+luar = 6
+
+negri = 1
+
+paris = 1
+
+roma = 1
+
+sydney = 1
+
+kota = 1
+
+dunia = 6
+
+lainnya = 2
+
+alexandria = 1
+
+misalnya = 1
+
+pilihan = 2
+
+hotel = 2
+
+san = 1
+
+stefano = 1
+
+montaza = 1
+
+berdekatan = 1
+
+istana = 1
+
+raja = 2
+
+faruq = 1
+
+begitu = 6
+
+masuk = 3
+
+fakultas = 3
+
+kedokteran = 1
+
+dibelikan = 1
+
+mobil = 6
+
+berkali = 1
+
+kali = 3
+
+minta = 3
+
+untuk = 32
+
+menggantikannya = 1
+
+saja = 9
+
+agar = 5
+
+enak = 2
+
+para = 5
+
+dosen = 1
+
+tetapi = 5
+
+beliau = 10
+
+menolak = 4
+
+mentah = 4
+
+�justru = 1
+
+itu = 52
+
+kamu = 4
+
+akan = 21
+
+siapa = 2
+
+saja� = 2
+
+tegas = 2
+
+terpaksa = 3
+
+pakai = 1
+
+meskipun = 2
+
+membantah = 1
+
+habis = 2
+
+habisan = 2
+
+pendapat = 1
+
+materialis = 1
+
+nyaman = 2
+
+parkir = 1
+
+agak = 1
+
+jauh = 2
+
+tempat = 3
+
+kuliah = 3
+
+ketika = 5
+
+jatuh = 1
+
+gadis = 5
+
+pesona = 1
+
+lahir = 1
+
+batin = 2
+
+tertarik = 1
+
+kesederhanaan = 1
+
+kesahajaan = 1
+
+kemuliaan = 1
+
+ahlaknya = 1
+
+keteduhan = 1
+
+wajahnya = 3
+
+menangkap = 1
+
+relung = 1
+
+hatinya = 1
+
+tersimpan = 1
+
+kelembutan = 2
+
+tiada = 3
+
+tara = 1
+
+kecantikan = 2
+
+kecerdasannya = 2
+
+menajubkan = 1
+
+beradab = 1
+
+berprestasi = 3
+
+sama = 6
+
+gayung = 1
+
+pun = 7
+
+bersambut = 1
+
+dia = 22
+
+juga = 10
+
+mencintai = 3
+
+telah = 10
+
+menemukan = 4
+
+pasangan = 3
+
+tepat = 4
+
+berjanji = 1
+
+menempatkan = 1
+
+ikatan = 2
+
+suci = 2
+
+diridhai = 1
+
+allah = 21
+
+yaitu = 3
+
+pernikahan = 6
+
+akhirnya = 4
+
+berdua = 14
+
+lulus = 1
+
+nilai = 1
+
+tertinggi = 2
+
+datanglah = 2
+
+mewujudkan = 1
+
+impian = 1
+
+menjadi = 7
+
+kenyataan = 1
+
+ingin = 7
+
+memadu = 1
+
+bahagia = 6
+
+jalan = 8
+
+lurus = 4
+
+buka = 1
+
+keinginan = 1
+
+melamar = 1
+
+menikahi = 1
+
+pujaan = 1
+
+ajak = 2
+
+berkunjung = 1
+
+rumah = 24
+
+saudara = 4
+
+semuanya = 1
+
+takjub = 2
+
+memuji = 1
+
+cita = 1
+
+rasanya = 4
+
+memilih = 2
+
+warna = 1
+
+pakaian = 3
+
+tutur = 1
+
+bahasanya = 1
+
+halus = 1
+
+usai = 1
+
+kunjungan = 1
+
+bertanya = 2
+
+tentang = 1
+
+pekerjaan = 2
+
+ayahnya = 2
+
+beritahu = 1
+
+merta = 1
+
+meledaklah = 1
+
+badai = 1
+
+kemarahan = 1
+
+membanting = 1
+
+gelas = 1
+
+ada = 14
+
+dekatnya = 1
+
+bahkan = 6
+
+mengultimatum = 1
+
+boleh = 2
+
+terjadi = 6
+
+selamanya = 1
+
+menegaskan = 1
+
+bahwa = 9
+
+selama = 7
+
+masih = 5
+
+rencana = 3
+
+berakhlak = 1
+
+mulia = 1
+
+pembuluh = 1
+
+otak = 2
+
+nyaris = 3
+
+pecah = 1
+
+menahan = 2
+
+remuk = 1
+
+redam = 1
+
+kepedihan = 1
+
+terkira = 1
+
+hadirin = 4
+
+semua = 8
+
+apakah = 1
+
+anda = 1
+
+tahu = 5
+
+sebabnya = 2
+
+berlaku = 2
+
+sedemikian = 1
+
+sadis = 1
+
+calon = 1
+
+istri = 12
+
+tukang = 4
+
+cukur� = 1
+
+cukur = 3
+
+ya� = 1
+
+sekali = 7
+
+lagi = 8
+
+katakan = 1
+
+bangga = 1
+
+meski = 2
+
+sejati = 1
+
+pekerja = 1
+
+menunaikan = 2
+
+kewajibannya = 1
+
+baik = 3
+
+kepada = 13
+
+keluarganya = 3
+
+mengukir = 1
+
+satu = 9
+
+prestasi = 2
+
+banyak = 2
+
+dilakukan = 1
+
+lewat = 1
+
+tangannya = 1
+
+lahirkan = 1
+
+dokter = 9
+
+insinyur = 1
+
+letnan = 1
+
+mengecap = 1
+
+bangku = 1
+
+pendidikan = 1
+
+berpihak = 1
+
+berdiri = 1
+
+sendiri = 3
+
+membela = 3
+
+membawa = 4
+
+pacarnya = 2
+
+hamil = 2
+
+2 = 4
+
+bulan = 6
+
+direstui = 3
+
+langsung = 2
+
+merestui = 2
+
+menyiapkan = 2
+
+biaya = 2
+
+pesta = 1
+
+pernikahannya = 1
+
+sebesar = 1
+
+500 = 1
+
+ribu = 1
+
+ponds = 1
+
+protes = 1
+
+perlakuan = 2
+
+adil = 1
+
+bercinta = 3
+
+sedangkan = 3
+
+jelas = 3
+
+berzina = 2
+
+bergonta = 1
+
+ganti = 1
+
+pacar = 2
+
+menghamili = 1
+
+berapa = 1
+
+akad = 6
+
+nikah = 7
+
+malah = 4
+
+diberi = 1
+
+fasilitas = 2
+
+maha = 2
+
+enteng = 1
+
+menjawab = 2
+
+�karena = 1
+
+salah = 3
+
+menurunkan = 2
+
+martabat = 2
+
+menteri = 1
+
+menaikkan = 1
+
+al = 3
+
+ganzouri = 1
+
+� = 9
+
+semakin = 3
+
+perih = 1
+
+luka = 1
+
+kalau = 2
+
+bukan = 3
+
+tentu = 1
+
+sudah = 4
+
+maki = 1
+
+mungkin = 4
+
+itulah = 2
+
+tanda = 1
+
+kiamat = 1
+
+dekat = 2
+
+bersih = 3
+
+menikah = 3
+
+dihalangi = 1
+
+difasilitasi = 1
+
+menyebut = 1
+
+asma = 1
+
+putuskan = 2
+
+buktikan = 2
+
+apa = 9
+
+selain = 1
+
+sesuai = 2
+
+tuntunan = 1
+
+yakini = 1
+
+kebenarannya = 1
+
+bawa = 1
+
+kaki = 3
+
+melangkah = 1
+
+kasih = 3
+
+temui = 1
+
+kejujuran = 1
+
+jelaskan = 1
+
+sebenarnya = 2
+
+harapan = 1
+
+bijak = 1
+
+la = 1
+
+haula = 1
+
+wala = 1
+
+quwwata = 1
+
+illa = 1
+
+billah = 1
+
+dikejutkan = 1
+
+oleh = 6
+
+sikap = 1
+
+setelah = 15
+
+mengetahui = 1
+
+penolakan = 1
+
+beliaupun = 1
+
+mengawinkan = 1
+
+putrinya = 1
+
+menjawabnya = 1
+
+reaksi = 1
+
+menganggapnya = 1
+
+sebagai = 7
+
+tetap = 4
+
+nekad = 2
+
+bingung = 1
+
+jiwa = 4
+
+tersiksa = 1
+
+alasan = 2
+
+kehormatan = 1
+
+berhari = 1
+
+hari = 11
+
+berlinang = 1
+
+air = 11
+
+mata = 11
+
+beratap = 1
+
+memiliki = 3
+
+kesejukan = 1
+
+berpikir = 3
+
+panjang = 1
+
+mengakhiri = 1
+
+penderitaan = 6
+
+suatu = 6
+
+cintai = 3
+
+kantor = 3
+
+ma�dzun = 4
+
+syari = 1
+
+petugas = 1
+
+pencatat = 1
+
+disertai = 1
+
+3 = 3
+
+sahabat = 2
+
+karibku = 2
+
+berikan = 2
+
+identitas = 1
+
+melaksanakan = 2
+
+secara = 1
+
+syari�ah = 1
+
+mengikuti = 2
+
+mahzab = 2
+
+imam = 2
+
+hanafi = 1
+
+menuntun = 1
+
+�mamduh = 1
+
+ucapkanlah = 1
+
+kalimat = 1
+
+terima = 3
+
+sunatullah = 1
+
+wa = 1
+
+rasulih = 1
+
+mahar = 1
+
+kita = 27
+
+sepakati = 1
+
+bersama = 6
+
+memakai = 2
+
+abu = 1
+
+hanifah = 1
+
+seketika = 2
+
+bercucuranlah = 1
+
+persis = 1
+
+detail = 1
+
+menuju = 1
+
+keluar = 5
+
+resmi = 1
+
+suami = 3
+
+isteri = 9
+
+sah = 1
+
+swt = 6
+
+manusia = 1
+
+bisikkan = 1
+
+kesabaran = 2
+
+sebab = 3
+
+belum = 4
+
+berakhir = 2
+
+duga = 1
+
+murka = 1
+
+prahara = 1
+
+kehidupan = 2
+
+menanti = 1
+
+depan = 3
+
+mencium = 1
+
+diusir = 2
+
+segala = 5
+
+disita = 1
+
+pergi = 4
+
+tanpa = 6
+
+kecuali = 5
+
+tas = 2
+
+kumal = 1
+
+berisi = 2
+
+beberapa = 4
+
+potong = 1
+
+uang = 13
+
+sebanyak = 5
+
+4 = 2
+
+pound = 9
+
+sisa = 2
+
+miliki = 1
+
+sehabis = 1
+
+membayar = 2
+
+ongkos = 1
+
+pula = 1
+
+istriku = 4
+
+tragis = 1
+
+kecil = 4
+
+total = 2
+
+pegang = 1
+
+6 = 4
+
+dolar = 1
+
+ah = 2
+
+lakukan = 1
+
+bertemu = 1
+
+layaknya = 3
+
+gelandangan = 3
+
+februari = 1
+
+puncak = 1
+
+dingin = 2
+
+menggigil = 1
+
+rasa = 10
+
+cemas = 2
+
+takut = 2
+
+sedih = 2
+
+sengsara = 4
+
+campur = 1
+
+aduk = 1
+
+berkaca = 2
+
+kaca = 2
+
+bertatapan = 1
+
+menyatu = 1
+
+dekapan = 1
+
+sayang = 3
+
+berdaya = 1
+
+menjalari = 1
+
+sukma = 1
+
+�habibi = 1
+
+maafkan = 2
+
+kanda = 6
+
+membawamu = 1
+
+jurang = 1
+
+kesengsaraan = 1
+
+�tidak� = 1
+
+langkah = 2
+
+tempuh = 2
+
+merekalah = 1
+
+menghargai = 1
+
+kebenaran = 1
+
+diselimuti = 1
+
+tindakan = 1
+
+menyesal = 2
+
+percayalah = 1
+
+insya = 1
+
+setia = 4
+
+mendampingi = 1
+
+dinda = 1
+
+jaya = 1
+
+keyakinan = 1
+
+gapai = 1
+
+kejayaan = 1
+
+ulurkan = 1
+
+tangan = 3
+
+senyum = 1
+
+menangis = 3
+
+haru = 2
+
+mengalir = 1
+
+deras = 1
+
+derasnya = 1
+
+derita = 8
+
+jawab = 1
+
+terisak = 1
+
+pelukan = 1
+
+kata = 5
+
+katanya = 1
+
+memberikan = 2
+
+sugesti = 1
+
+diri = 3
+
+lahirlah = 1
+
+optimisme = 1
+
+sirna = 1
+
+apalagi = 2
+
+teringat = 3
+
+diangkat = 2
+
+lulusan = 1
+
+terbaik = 1
+
+masing = 2
+
+menerima = 2
+
+penghargaan = 1
+
+40 = 1
+
+malam = 7
+
+melarut = 1
+
+hawa = 1
+
+menggigit = 1
+
+duduk = 1
+
+emperan = 2
+
+toko = 3
+
+gembel = 1
+
+punya = 3
+
+kebekuan = 1
+
+terus = 2
+
+berputar = 1
+
+tidur = 8
+
+datang = 2
+
+meminjam = 1
+
+sebuah = 4
+
+24 = 1
+
+jam = 1
+
+berhasil = 7
+
+menghubungi = 1
+
+memberi = 1
+
+pinjaman = 1
+
+50 = 1
+
+mengantarkan = 1
+
+mencarikan = 1
+
+losmen = 2
+
+ala = 2
+
+kadarnya = 2
+
+murah = 1
+
+berteduh = 2
+
+kamar = 1
+
+sederhana = 4
+
+segera = 2
+
+disadarkan = 1
+
+kembali = 8
+
+berada = 2
+
+lembah = 1
+
+susah = 2
+
+harus = 4
+
+mengarunginya = 1
+
+menolong = 1
+
+rahmat = 4
+
+sampai = 9
+
+kontrakan = 4
+
+daerah = 1
+
+kumuh = 3
+
+syubra = 1
+
+khaimah = 1
+
+bagi = 2
+
+kaum = 3
+
+dipandang = 1
+
+sepantasnya = 1
+
+kandang = 1
+
+binatang = 2
+
+kesayangan = 2
+
+bagus = 1
+
+hadiah = 2
+
+langit = 3
+
+apapun = 1
+
+bentuk = 1
+
+bagai = 1
+
+mendapat = 3
+
+agung = 1
+
+kebetulan = 1
+
+sedang = 2
+
+membutuhkan = 1
+
+sehingga = 2
+
+sewa = 3
+
+jaminan = 1
+
+administrasi = 1
+
+jadi = 4
+
+sewanya = 1
+
+25 = 2
+
+betapa = 1
+
+bahagianya = 1
+
+pindah = 2
+
+kesana = 1
+
+membeli = 2
+
+perkakas = 2
+
+pertama = 3
+
+kalinya = 2
+
+kasur = 6
+
+kasar = 2
+
+kapas = 3
+
+bantal = 1
+
+meja = 3
+
+kayu = 2
+
+kursi = 3
+
+kompor = 1
+
+gas = 1
+
+kipas = 1
+
+cangkir = 1
+
+tanah = 2
+
+bersahaja = 1
+
+dikatakan = 1
+
+layak = 3
+
+adakah = 1
+
+kebahagiaan = 3
+
+melebihi = 1
+
+pertemuan = 2
+
+diikat = 1
+
+kuatnya = 3
+
+gairah = 1
+
+kenapakah = 1
+
+merindukan = 1
+
+surga = 8
+
+akhirat = 1
+
+menjanjikan = 1
+
+perkataan = 1
+
+ibnu = 1
+
+qayyim = 1
+
+nikmatnya = 1
+
+persetubuhan = 1
+
+dirasa = 1
+
+sepasang = 1
+
+gambaran = 1
+
+setetes = 1
+
+nikmat = 6
+
+disediakan = 1
+
+percintaan = 1
+
+dibayangkan = 1
+
+paling = 4
+
+diberikan = 1
+
+penghuni = 2
+
+memperlihatkan = 1
+
+wajah = 3
+
+nya = 3
+
+berhak = 3
+
+menikmati = 1
+
+indahnya = 1
+
+petunjuknya = 1
+
+qur�an = 2
+
+sunnah = 1
+
+rasul = 1
+
+konsisten = 1
+
+petunjuk = 1
+
+lah = 1
+
+melalui = 1
+
+penghayatan = 1
+
+mendekatkan = 1
+
+rajin = 1
+
+membaca = 1
+
+jilbab = 2
+
+putus = 1
+
+shalat = 1
+
+awal = 2
+
+menjelma = 1
+
+rabi�ah = 1
+
+adawiyah = 1
+
+larut = 1
+
+samudra = 1
+
+munajat = 1
+
+tuhan = 1
+
+waktu = 3
+
+siang = 2
+
+pengabdian = 1
+
+belas = 1
+
+kasihan = 5
+
+memang = 3
+
+wanita = 4
+
+berkarakter = 1
+
+berkepribadian = 1
+
+kuat = 1
+
+bertekad = 1
+
+bantuan = 3
+
+siapapun = 1
+
+pandai = 1
+
+mengatur = 1
+
+keuangan = 1
+
+poud = 1
+
+tersisa = 1
+
+cukup = 2
+
+makan = 4
+
+transportasi = 1
+
+sebulan = 1
+
+tetanggga = 1
+
+tetangga = 4
+
+kamipun = 1
+
+melihat = 4
+
+kemelaratan = 1
+
+padahal = 1
+
+bilang = 1
+
+disengaja = 1
+
+�ah = 1
+
+kira = 1
+
+pasti = 2
+
+kaya = 1
+
+melarat = 2
+
+mamduh = 1
+
+isterinya = 1
+
+akrabnya = 1
+
+mengurangi = 1
+
+nestapa = 3
+
+menawarkan = 2
+
+menitipkan = 1
+
+cuciannya = 1
+
+mesin = 1
+
+cuci = 1
+
+sibuk = 1
+
+membelikan = 1
+
+kebutuhan = 2
+
+membantu = 1
+
+membersihkan = 1
+
+terkesan = 1
+
+pertolongan = 2
+
+kehangatan = 1
+
+seolah = 2
+
+olah = 1
+
+pengganti = 1
+
+kasarnya = 1
+
+terpanggil = 1
+
+mengunjungi = 2
+
+menyakitkan = 1
+
+membiarkan = 2
+
+tenang = 4
+
+pulas = 1
+
+digedor = 1
+
+didobrak = 1
+
+bajingan = 2
+
+kiriman = 1
+
+merusak = 1
+
+satunya = 2
+
+patah = 1
+
+patahkan = 1
+
+robek = 2
+
+mengancam = 1
+
+memaki = 1
+
+ancaman = 1
+
+�kalian = 1
+
+berani = 1
+
+menentang = 1
+
+tuan = 2
+
+pasha = 1
+
+maksudkan = 1
+
+kala = 2
+
+pangkatnya = 1
+
+naik = 1
+
+jendral = 1
+
+empat = 1
+
+berpelukan = 1
+
+bareng = 1
+
+berbagi = 1
+
+membangun = 1
+
+kekuatan = 2
+
+tata = 2
+
+hancur = 1
+
+kumpulkan = 1
+
+berserakan = 1
+
+masukan = 1
+
+jahit = 1
+
+sobek = 2
+
+karuan = 1
+
+buku = 6
+
+berantakan = 1
+
+rusak = 1
+
+berusaha = 1
+
+perbaiki = 1
+
+tertidur = 1
+
+kecapaian = 1
+
+erat = 1
+
+bergenggaman = 1
+
+eratnya = 1
+
+genggaman = 1
+
+inilah = 3
+
+sumber = 1
+
+aman = 1
+
+meringankan = 1
+
+intimidasi = 1
+
+firasat = 1
+
+mengatakan = 1
+
+kabar = 1
+
+merancang = 2
+
+skenario = 4
+
+keji = 1
+
+memenjarakan = 1
+
+tuduhan = 1
+
+tuna = 1
+
+susila = 1
+
+intelijen = 1
+
+militer = 4
+
+telapak = 1
+
+pasrah = 1
+
+mendengar = 1
+
+masya = 1
+
+mengurungkan = 1
+
+niat = 1
+
+jahatnya = 1
+
+memperdaya = 1
+
+bersumpah = 1
+
+membujuk = 1
+
+menceraikan = 1
+
+meminta = 2
+
+bersabar = 1
+
+menjalankan = 1
+
+pemberontakan = 1
+
+berbuat = 1
+
+tugas = 1
+
+temanku = 2
+
+ayahku = 1
+
+setiap = 3
+
+pekan = 1
+
+sambil = 4
+
+sabar = 3
+
+meyakinkan = 1
+
+mencerai = 1
+
+isteriku = 1
+
+mengulur = 1
+
+turun = 1
+
+marahnya = 1
+
+melupakan = 2
+
+kejamnya = 1
+
+sementara = 2
+
+mempersiapkan = 1
+
+sesuatu = 1
+
+matang = 1
+
+wajib = 3
+
+menjalani = 1
+
+masa = 2
+
+takutkan = 1
+
+pemasukan = 2
+
+mesti = 1
+
+berpisah = 1
+
+belahan = 2
+
+1 = 1
+
+memikirkan = 1
+
+keselamatan = 2
+
+tercinta = 3
+
+dialah = 3
+
+hamba = 2
+
+beriman = 1
+
+selamat = 1
+
+mendapatkan = 2
+
+kesempatan = 1
+
+magang = 1
+
+klinik = 1
+
+kesehatan = 1
+
+berkecukupan = 1
+
+selesai = 1
+
+menumpahkan = 1
+
+rindu = 2
+
+kekasih = 1
+
+semi = 1
+
+keindahan = 1
+
+tatap = 1
+
+matanya = 3
+
+indah = 3
+
+putih = 1
+
+tersenyum = 2
+
+manis = 1
+
+reguk = 1
+
+cintanya = 2
+
+puisi = 1
+
+penyair = 1
+
+palestina = 1
+
+memimpikan = 2
+
+pendamping = 1
+
+lepas = 1
+
+belenggu = 1
+
+menatap = 2
+
+kukatakan = 1
+
+kepadanya = 1
+
+sana� = 1
+
+lautan = 1
+
+pasir = 1
+
+berbaring = 1
+
+nyenyak = 1
+
+subuh = 1
+
+karna = 1
+
+ketiadaan = 1
+
+tapi = 1
+
+kupu = 2
+
+kelelahan = 1
+
+bibir = 1
+
+besok = 2
+
+oh = 1
+
+cintaku� = 1
+
+bangun = 1
+
+pagi = 1
+
+pelaut = 1
+
+perahu = 1
+
+layar = 1
+
+terbang = 1
+
+angin = 1
+
+burung = 2
+
+yah� = 1
+
+demikian = 3
+
+istirahat = 1
+
+utarakan = 1
+
+mimpi = 2
+
+pandangan = 1
+
+lain = 1
+
+program = 3
+
+magister = 5
+
+�gila� = 1
+
+ide = 3
+
+gila = 2
+
+pikirku = 1
+
+bagaimana = 2
+
+tidak�ini = 1
+
+meninggalkan = 1
+
+mesir = 3
+
+negara = 2
+
+teluk = 1
+
+demi = 1
+
+menjauhi = 1
+
+permusuhan = 1
+
+berperasaan = 1
+
+bersikukuh = 1
+
+meraih = 4
+
+gelar = 6
+
+logika = 2
+
+tolak = 2
+
+�kita = 2
+
+angkatan = 1
+
+tawaran = 1
+
+keringanan = 1
+
+sebentar = 1
+
+keabadian = 1
+
+kepalang = 1
+
+menderita = 4
+
+sekalian = 3
+
+rengguk = 1
+
+sum = 2
+
+sempurnakan = 1
+
+akademis = 2
+
+wujudkan = 1
+
+membiaskan = 1
+
+keraguan = 1
+
+ketakutan = 1
+
+berhadapan = 1
+
+tekad = 1
+
+baja = 1
+
+hatiku = 1
+
+luluh = 1
+
+kupenuhi = 1
+
+ajakannya = 1
+
+perasaan = 2
+
+jiwanya = 1
+
+jadilah = 1
+
+mulailah = 1
+
+memasuki = 1
+
+baru = 2
+
+pas = 1
+
+pasan = 1
+
+banyaknya = 1
+
+dana = 2
+
+praktek = 1
+
+dll = 1
+
+laksana = 2
+
+sufi = 1
+
+roti = 1
+
+lalui = 3
+
+berat = 1
+
+kosong = 1
+
+keran = 1
+
+terekam = 1
+
+memori = 1
+
+belajar = 3
+
+didera = 1
+
+lapar = 1
+
+terperikan = 1
+
+obati = 1
+
+muntah = 2
+
+beli = 1
+
+ambil = 1
+
+jangan = 1
+
+tanya� = 1
+
+puasa = 1
+
+keterpaksaan = 1
+
+terjelmalah = 1
+
+kebiasaan = 1
+
+keikhlasan = 1
+
+melaratnya = 1
+
+pernah = 3
+
+mengeluh = 2
+
+sedikitpun = 1
+
+menagis = 1
+
+ataupun = 1
+
+marah = 1
+
+kalaupun = 1
+
+menyesali = 1
+
+nasibnya = 1
+
+keadaan = 1
+
+asalnya = 2
+
+terbiasa = 1
+
+sebaliknya = 1
+
+sayapun = 1
+
+keadaannya = 1
+
+timbal = 1
+
+balik = 1
+
+ternya = 1
+
+menciptakan = 1
+
+mawaddah = 1
+
+hormat = 1
+
+mendalam = 1
+
+padanya = 1
+
+angkat = 1
+
+kepala = 1
+
+tampak = 2
+
+serius = 1
+
+kutatap = 1
+
+kagum = 1
+
+bidadari = 1
+
+diperhatikan = 1
+
+mengangkat = 1
+
+pandangannya = 1
+
+senyumnya = 1
+
+khas = 1
+
+terlupakan = 1
+
+kamilah = 1
+
+berbahagia = 1
+
+�allah = 1
+
+menyertai = 1
+
+sayang�� = 1
+
+bisiknya = 1
+
+mesra = 1
+
+teruskan = 1
+
+semangat = 1
+
+membara = 1
+
+penyayang = 1
+
+usaha = 2
+
+sia = 2
+
+tercepat = 1
+
+tipis = 1
+
+istilah = 1
+
+meneken = 2
+
+kontrak = 2
+
+kerja = 2
+
+sakit = 3
+
+kuwait = 2
+
+5 = 1
+
+berselimut = 1
+
+duka = 3
+
+empuk = 1
+
+masakan = 1
+
+lezat = 1
+
+dapat = 1
+
+villa = 1
+
+berlantai = 1
+
+heliopolis = 1
+
+kairo = 2
+
+�edan� = 1
+
+mengeluarkan = 1
+
+melanjutkan = 1
+
+doktor = 4
+
+spesialis = 4
+
+london = 4
+
+sulit = 1
+
+kini = 2
+
+mengambil = 1
+
+bertahun = 1
+
+lorong = 1
+
+salahnya = 1
+
+raih = 1
+
+jenjang = 1
+
+maju = 1
+
+pihak = 1
+
+menyediakan = 1
+
+tambahan = 1
+
+kucium = 1
+
+kening = 1
+
+bismillah� = 1
+
+berangkat = 1
+
+singkatnya = 1
+
+menggondol = 1
+
+syaraf = 1
+
+jantung = 1
+
+gaji = 1
+
+besarnya = 1
+
+direktur = 1
+
+wakilnya = 1
+
+mengajar = 1
+
+universitas = 1
+
+dikaruniai = 1
+
+putri = 1
+
+cantik = 1
+
+cerdas = 1
+
+namai = 1
+
+nama = 1
+
+terkasih = 1
+
+menemaniku = 1
+
+suka = 2
+
+henti = 1
+
+mengilhamkan = 1
+
+kebajikan = 1
+
+lima = 1
+
+sebelumnya = 1
+
+ibadah = 1
+
+haji = 1
+
+haram = 1
+
+permaisurinya = 1
+
+pulang = 1
+
+lawatan = 1
+
+keliling = 1
+
+9 = 1
+
+mengenang = 1
+
+bertambahlah = 1
+
+syukur = 1
+
+bertambahlan = 1
+
+sampaikan = 1
+
+nasehat = 1
+
+saleha = 1
+
+mencurahkan = 1
+
+tulus = 1
+
+surut = 1
+
+sejak = 1
+
+lihatlah = 1
+
+berjilbab = 2
+
+biru = 2
+
+menunduk = 1
+
+barisan = 1
+
+sebelah = 1
+
+kiri = 1
+
+artis = 1
+
+huda = 2
+
+sulthan = 2
+
+mengajarkan = 1
+
+mengekalkan = 1
+
+aziz�� = 1
+
+tepuk = 1
+
+bergemuruh = 1
+
+mengiringi = 1
+
+gerak = 1
+
+kamera = 2
+
+video = 1
+
+menyorot = 1
+
+sosok = 1
+
+separoh = 1
+
+baya = 1
+
+anggun = 1
+
+mengusap = 1
+
+kucuran = 1
+
+merekam = 1
+
+lelehan = 1
+
+kedua = 1
+
+mempelai = 1
+
+menghayati = 1
+
+cerita = 1
+
+seksama = 1
+
